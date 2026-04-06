@@ -55,8 +55,7 @@ To analyze overall store performance and identify opportunities for growth by ev
 
 ## 📷 Dashboard Preview
 
-![dashboard_preview](https://github.com/JaanuDataWorks/Gobal-Store-Dashboard/blob/main/dashboard_Screenshot.png.png)
-
+[View Dashboard](https://github.com/JaanuDataWorks/your-repo-name/blob/main/dashboard_Screenshot.png.png)
 ---
 
 ## 🚀 Project Outcomes

@@ -20,7 +20,7 @@ This project is a Power BI dashboard that analyzes the performance of a retail s
 - Power Query
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard_Screenshot.png.png)
+![Dashboard](https://github.com/JaanuDataWorks/Super-Store-Dashboard/blob/main/dashboard_Screenshot.png.png)
 
 ## 📁 Files Included
 - Global_Store_Dashboard.pbix
